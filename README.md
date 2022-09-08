@@ -1,1 +1,3 @@
-# Microservices
+# Email Microservice
+
+Microservice to send emails 
