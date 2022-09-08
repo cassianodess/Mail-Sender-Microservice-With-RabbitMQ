@@ -1,4 +1,4 @@
-# Mail Sender Microservice
+# Mail Sender Microservice With RabbitMQ
 
 ## [API link]()
 
